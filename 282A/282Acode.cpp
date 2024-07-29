@@ -13,6 +13,6 @@ int main(void)
 		else if (solu[1] == '-')
 			--x;
 	}
-	std::cout << x;
+	std::cout << x << std::endl;
 	return 0;
 }
