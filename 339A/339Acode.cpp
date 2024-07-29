@@ -17,5 +17,6 @@ int main(void)
 		if (!sortS.empty())
 			std::cout << '+';
 	}
+	std::cout << std::endl;
 	return 0;
 }
