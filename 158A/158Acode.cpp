@@ -20,6 +20,6 @@ int main(void)
 		else
 			break;
 	}
-	std::cout << ans;
+	std::cout << ans << std::endl;
 	return 0;
 }
