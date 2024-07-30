@@ -4,17 +4,17 @@
 bool Young_Physicist(std::vector<int> x, std::vector<int> y, std::vector<int> z)
 {
 	int forcesX = 0;
-	for (std::vector<int>::iterator it = x.begin(); it != x.end(); ++it)
+	for (std::vector<int>::iterator it(x.begin()); it != x.end(); ++it)
 	{
 		forcesX += *it;
 	}
 	int forcesY = 0;
-	for (std::vector<int>::iterator it = y.begin(); it != y.end(); ++it)
+	for (std::vector<int>::iterator it(y.begin()); it != y.end(); ++it)
 	{
 		forcesY += *it;
 	}
 	int forcesZ = 0;
-	for (std::vector<int>::iterator it = z.begin(); it != z.end(); ++it)
+	for (std::vector<int>::iterator it(z.begin()); it != z.end(); ++it)
 	{
 		forcesZ += *it;
 	}
