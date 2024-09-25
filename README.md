@@ -1,4 +1,4 @@
-# codeforces_solutions by 石木古月
+# codeforces_solutions by Shimu_Guyue
 
 代码有问题请联系本人shimuguyue513@qq.com
 
